@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Marshad
 
 Welcome to my digital workspace — where I turn coffee into code ☕💻  
-Information Technology student at Sri Lanka Institue of Information Technology **SLIIT** on a mission to master **Java**, **DSA**, and everything in between.
+Information Technology student at Sri Lanka Institue of Information Technology aka **SLIIT** on a mission to master **Java**, **DSA**, and everything in between.
 
 ---
 
