@@ -1,17 +1,17 @@
 # 👋 Hey there, I'm Marshad
 
 Welcome to my digital workspace — where I turn coffee into code ☕💻  
-Information Technology student at Sri Lanka Institue of Information Technology aka **SLIIT** on a mission to master **Java**, **DSA**, and everything in between.
+Information Technology student at Sri Lanka Institue of Information Technology aka **SLIIT** on a mission to conquer the Techworld.
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 1st year 2nd semester student
+- 🎓 2nd year 1st semester student
 - 💻 I write code mostly in **Java**
 - 📚 Learning OOP, DSA, and loving how things click when I build stuff
-- ✍️ I still write code in **Notepad++** — because focus > fancy
-- 🧠 Currently learning: `Try-Catch`, `File Handling`, and `GitHub basics`
+- ✍️ i write code in intelijea
+- 🧠 Currently learning: `DSA`, `File Handling`, `Networking` and `GitHub basics`
 - 📌 Also juggling: Technical Writing, Maths
 
 ---
