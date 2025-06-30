@@ -9,18 +9,16 @@ Information Technology student at Sri Lanka Institue of Information Technology a
 
 - 🎓 2nd year 1st semester student
 - 💻 I write code mostly in **Java**
-- 📚 Learning OOP, DSA, and loving how things click when I build stuff
-- ✍️ i write code in intelijea
-- 🧠 Currently learning: `DSA`, `File Handling`, `Networking` and `GitHub basics`
-- 📌 Also juggling: Technical Writing, Maths
+- 📚 Learning OOP, AI and Database
+- 🧠 Currently learning: `DSA`, `File Handling`, `Web developement` and `GitHub basics`
+- 📌 Also juggling: Maths, HTML
 
 ---
 
 ### 💼 Projects I'm Proud Of
 
-- **🎵 Media Library App**  
-  Java project using interfaces, polymorphism, and array lists  
-  `Book`, `Movie`, `Song` — all in one digital library
+- **🎵 SOLID**  
+  Program that built in SOLID principle
 
 - **📚 Library Management using Linked Lists**  
   Insert, delete, search books with custom singly linked list implementation
