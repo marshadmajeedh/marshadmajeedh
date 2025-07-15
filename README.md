@@ -15,11 +15,7 @@ Information Technology student at Sri Lanka Institue of Information Technology a
 
 ---
 
-### 💼 Projects I'm Proud Of
-
-- **🎵 Smart notification management system**  
-  Program that built in SOLID principle
-  https://github.com/marshadmajeedh/oop-concepts-in-java/tree/main/Smart%20notification%20management%20system/out/production/Smart%20notification%20management%20system
+### 💼 Projects I'm Proud Of  
 
 - **📚 Library Management using Linked Lists**  
   Insert, delete, search books with custom singly linked list implementation
