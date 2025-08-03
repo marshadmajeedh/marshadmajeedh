@@ -1,47 +1,84 @@
-# 👋 Hey there, I'm Marshad
+# Hi, I'm Marshad Majeedh 👋
 
-Welcome to my digital workspace — where I turn coffee into code ☕💻  
-Information Technology student at Sri Lanka Institue of Information Technology aka **SLIIT** on a mission to conquer the Techworld.
+**Information Technology Student | Specialization in Cyber security | Innovater**
 
----
-
-### 🚀 About Me
-
-- 🎓 2nd year 1st semester student
-- 💻 I write code mostly in **Java**
-- 📚 Learning OOP, AI and Database
-- 🧠 Currently learning: `DSA`, `File Handling`, `Web developement` and `GitHub basics`
-- 📌 Also juggling: Maths, HTML
+Welcome to my GitHub profile! I'm a passionate IT student at Sri Lanka Institute of Information Technology (SLIIT), dedicated to building efficient solutions and expanding my technical expertise.
 
 ---
 
-### 💼 Projects I'm Proud Of  
+## 🎓 About Me
 
-- **📚 Library Management using Linked Lists**  
-  Insert, delete, search books with custom singly linked list implementation
-
----
-
-### 📈 Stats & Activity
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=radical)
-![Marshad's GitHub stats](https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=radical)
+- **Current Status:** 2nd Year, 1st Semester IT Student at SLIIT
+- **Primary Language:** Java
+- **Academic Focus:** Object-Oriented Programming, Artificial Intelligence, Database Management, Software Engineering
+- **Currently Learning:** Version Control (Git/GitHub), AI, DBMS, Network fundamentals
+- **Additional Skills:** Mathematics, HTML
 
 ---
 
-### 🌱 Always Growing
+## 🛠️ Technical Skills
 
-Every repo you see is one more step in my journey.  
-If you're learning too — let's connect and grow together 💪
+**Programming Languages:**
+- Java (Primary)
+
+**Areas of Study:**
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Database Design & Management
+- Artificial Intelligence Fundamentals
+- Web Development
+
+**Tools & Technologies:**
+- Git & GitHub
+- File I/O Operations
+- Intellij Idea
+  
+---
+
+## 🚀 Featured Projects
+
+### 📚 Library Management System
+**Technology:** Java with Custom Data Structures
+- Implemented a comprehensive library management system using custom singly linked lists
+- Features include book insertion, deletion, and search functionality
+- Demonstrates proficiency in data structure design and implementation
 
 ---
 
-### 📫 Reach Me
+## 📊 GitHub Statistics
 
-- 💌 Email: `marshadahamedh@gmail.com`
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=radical)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Learning Journey
+
+I believe in continuous learning and improvement. Each repository represents a step forward in my development journey, and I'm always eager to tackle new challenges and explore emerging technologies.
+
+**Current Learning Goals:**
+- Advanced Data Structures & Algorithms
+- Full-Stack Web Development
+- Software Engineering Best Practices
+- Database Optimization Techniques
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow developers, students, and tech enthusiasts. Whether you're looking to collaborate on projects, share learning resources, or discuss technology trends, feel free to reach out!
+
+**Contact Information:**
+- 📧 Email: marshadahamedh@gmail.com
 - 🌐 GitHub: [@marshadmajeedh](https://github.com/marshadmajeedh)
 
 ---
 
-> "Fall in love with the process, and the results will chase you."
+## 💭 Philosophy
 
+> *"Fall in love with the process, and the results will chase you."*
+
+---
+
+*Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or connect.*
