@@ -1,84 +1,78 @@
-# Hi, I'm Marshad Majeedh 👋
+# 👋 Hi, I'm Marshad Majeedh  
 
-**Information Technology Student | Specialization in Cyber security | Innovater**
+**💻 Information Technology Student | 🔐 Cyber Security Enthusiast | 🚀 Innovator**  
 
-Welcome to my GitHub profile! I'm a passionate IT student at Sri Lanka Institute of Information Technology (SLIIT), dedicated to building efficient solutions and expanding my technical expertise.
-
----
-
-## 🎓 About Me
-
-- **Current Status:** 2nd Year, 1st Semester IT Student at SLIIT
-- **Primary Language:** Java
-- **Academic Focus:** Object-Oriented Programming, Artificial Intelligence, Database Management, Software Engineering
-- **Currently Learning:** Version Control (Git/GitHub), AI, DBMS, Network fundamentals
-- **Additional Skills:** Mathematics, HTML
+Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about problem-solving, secure software design, and exploring the field of **Cyber Security**.  
 
 ---
 
-## 🛠️ Technical Skills
-
-**Programming Languages:**
-- Java (Primary)
-
-**Areas of Study:**
-- Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Design & Management
-- Artificial Intelligence Fundamentals
-- Web Development
-
-**Tools & Technologies:**
-- Git & GitHub
-- File I/O Operations
-- Intellij Idea
-  
----
-
-## 🚀 Featured Projects
-
-### 📚 Library Management System
-**Technology:** Java with Custom Data Structures
-- Implemented a comprehensive library management system using custom singly linked lists
-- Features include book insertion, deletion, and search functionality
-- Demonstrates proficiency in data structure design and implementation
+## 🎓 About Me  
+- 🎯 **Current Status:** 2nd Year, 1st Semester IT Student at SLIIT  
+- ☕ **Primary Language:** Java  
+- 📚 **Academic Focus:** OOP, Data Structures & Algorithms, Cyber Security, DBMS, Software Engineering  
+- 🔥 **Currently Learning:** Git/GitHub, Networking Fundamentals, Security Tools, Ethical Hacking basics  
+- ✨ **Extra Skills:** Mathematics, HTML  
 
 ---
 
-## 📊 GitHub Statistics
+## 🛠️ Technical Skills  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=radical)
+**Languages:**  
+- Java (Primary)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=radical)
+**Core Areas:**  
+- Object-Oriented Programming (OOP)  
+- Data Structures & Algorithms (currently mastering recursion 🚀)  
+- Cyber Security Fundamentals (Networking, Security Protocols)  
+- Database Design & Management  
+- Artificial Intelligence Basics  
 
----
-
-## 🌱 Learning Journey
-
-I believe in continuous learning and improvement. Each repository represents a step forward in my development journey, and I'm always eager to tackle new challenges and explore emerging technologies.
-
-**Current Learning Goals:**
-- Advanced Data Structures & Algorithms
-- Full-Stack Web Development
-- Software Engineering Best Practices
-- Database Optimization Techniques
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with fellow developers, students, and tech enthusiasts. Whether you're looking to collaborate on projects, share learning resources, or discuss technology trends, feel free to reach out!
-
-**Contact Information:**
-- 📧 Email: marshadahamedh@gmail.com
-- 🌐 GitHub: [@marshadmajeedh](https://github.com/marshadmajeedh)
+**Tools & Technologies:**  
+- Git & GitHub  
+- File I/O Operations  
+- IntelliJ IDEA  
+- Cybersecurity Tools (Kali Linux, Wireshark – learning phase)  
 
 ---
 
-## 💭 Philosophy
+## 🚀 Featured Project  
 
-> *"Fall in love with the process, and the results will chase you."*
+### 📚 Library Management System  
+**Tech:** Java with Custom Data Structures  
+- Built a **library management system** using custom singly linked lists  
+- Features: book insertion, deletion, and search  
+- Showcases **data structure design** & algorithmic problem-solving  
 
 ---
 
-*Thank you for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or connect.*
+## 📊 GitHub Stats  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=radical)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=radical)  
+
+---
+
+## 🌱 Learning Journey  
+
+I believe in **continuous learning and consistency** 🌟.  
+Every repository is a milestone—right now I’m focusing on:  
+- 📌 Mastering **Recursion** (strong base for problem solving)  
+- 🔐 Exploring **Cyber Security** (network security, cryptography, ethical hacking)  
+- ⚡ Strengthening **Data Structures & Algorithms**  
+- 🛠️ Secure Software Development  
+
+---
+
+## 🤝 Let’s Connect  
+
+- 📧 **Email:** marshadahamedh@gmail.com  
+- 🌐 **GitHub:** [@marshadmajeedh](https://github.com/marshadmajeedh)  
+
+---
+
+## 💭 Quote I Follow  
+
+> *"Fall in love with the process, and the results will chase you."*  
+
+---
