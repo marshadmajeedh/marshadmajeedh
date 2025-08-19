@@ -70,9 +70,3 @@ Every repository is a milestone—right now I’m focusing on:
 - 🌐 **GitHub:** [@marshadmajeedh](https://github.com/marshadmajeedh)  
 
 ---
-
-## 💭 Quote I Follow  
-
-> *"Fall in love with the process, and the results will chase you."*  
-
----
