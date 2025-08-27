@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Marshad Majeedh  
 
-**💻 Information Technology Student | 🔐 Cyber Security Enthusiast | 🚀 Innovator**  
+**💻 Information Technology Student | 🔐 Cyber Security Enthusiast | 🚀 Developer**  
 
 Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about problem-solving, secure software design, and exploring the field of **Cyber Security**.  
 
