@@ -7,11 +7,11 @@ Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Info
 ---
 
 ## 🎓 About Me  
-- 🎯 **Current Status:** 2nd Year, 1st Semester IT Student at SLIIT  
+- 🎯 **Current Status:** 2nd Year, 2nd Semester Software Engineering Undergraduate at SLIIT  
 - ☕ **Primary Language:** Java  
 - 📚 **Academic Focus:** OOP, Data Structures & Algorithms, Cyber Security, DBMS, Software Engineering  
-- 🔥 **Currently Learning:** Git/GitHub, Networking Fundamentals, Security Tools, Ethical Hacking basics  
-- ✨ **Extra Skills:** Mathematics, HTML  
+- 🔥 **Currently Learning:** Git/GitHub,Java Collections 
+- ✨ **Extra Skills:** CSS, HTML, JS  
 
 ---
 
@@ -22,26 +22,20 @@ Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Info
 
 **Core Areas:**  
 - Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms (currently mastering recursion 🚀)  
-- Cyber Security Fundamentals (Networking, Security Protocols)  
+- Data Structures & Algorithms (currently mastering java collections)   
 - Database Design & Management  
 - Artificial Intelligence Basics  
 
 **Tools & Technologies:**  
 - Git & GitHub  
 - File I/O Operations  
-- IntelliJ IDEA  
-- Cybersecurity Tools (Kali Linux, Wireshark – learning phase)  
+- IntelliJ IDEA    
 
 ---
 
 ## 🚀 Featured Project  
 
-### 📚 Library Management System  
-**Tech:** Java with Custom Data Structures  
-- Built a **library management system** using custom singly linked lists  
-- Features: book insertion, deletion, and search  
-- Showcases **data structure design** & algorithmic problem-solving  
+### 📚 Online-Web-Based-Bidding-System
 
 ---
 
@@ -57,8 +51,8 @@ Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Info
 
 I believe in **continuous learning and consistency** 🌟.  
 Every repository is a milestone—right now I’m focusing on:  
-- 📌 Mastering **Recursion** (strong base for problem solving)  
-- 🔐 Exploring **Cyber Security** (network security, cryptography, ethical hacking)  
+- 📌 Mastering **java** (strong base for problem solving)  
+- 🔐 Exploring **Application Security Engineer**  
 - ⚡ Strengthening **Data Structures & Algorithms**  
 - 🛠️ Secure Software Development  
 
