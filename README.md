@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Info
 
 I believe in **continuous learning and consistency** 🌟.  
 Every repository is a milestone—right now I’m focusing on:  
-- 📌 Mastering **java** (strong base for problem solving)  
+- 📌 Mastering **java** 
 - 🔐 Exploring **Application Security Engineer**  
 - ⚡ Strengthening **Data Structures & Algorithms**  
 - 🛠️ Secure Software Development  
