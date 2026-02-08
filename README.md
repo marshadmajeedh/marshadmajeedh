@@ -34,12 +34,12 @@ I believe in mastering fundamentals deeply before scaling up.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=marshadmajeedh&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=2" height="170" />
+  <img src="https://streak-stats.demolab.com?user=marshadmajeedh&theme=tokyonight&hide_border=true&v=2" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=2" height="170" />
 </p>
 
 ---
