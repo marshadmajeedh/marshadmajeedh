@@ -1,66 +1,57 @@
-# 👋 Hi, I'm Marshad Majeedh  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspiring+Application+Security+Engineer;Building+Strong+Fundamentals+Every+Day)
+👋 Hey, I’m Marshad Majeedh
+💻 Software Engineering Undergraduate | 🔐 Aspiring Application Security Engineer
+🏷️ Tech & Focus
 
-**💻 Information Technology Student | 🔐 Aspiring ApplicationSecurityEngineer**  
 
-Welcome to my GitHub profile! I'm an IT student at **Sri Lanka Institute of Information Technology (SLIIT)**, passionate about problem-solving, secure software design, and exploring the field of **Cyber Security**.  
 
----
 
-## 🎓 About Me  
-- 🎯 **Current Status:** 2nd Year, 2nd Semester Software Engineering Undergraduate at SLIIT  
-- ☕ **Primary Language:** Java  
-- 📚 **Academic Focus:** OOP, Data Structures & Algorithms, Cyber Security, DBMS, Software Engineering  
-- 🔥 **Currently Learning:** Git/GitHub,Java Collections 
-- ✨ **Extra Skills:** CSS, HTML, JS  
 
----
 
-## 🛠️ Technical Skills  
 
-**Languages:**  
-- Java (Primary)  
 
-**Core Areas:**  
-- Object-Oriented Programming (OOP)  
-- Data Structures & Algorithms (currently mastering java collections)   
-- Database Design & Management  
-- Artificial Intelligence Basics  
 
-**Tools & Technologies:**  
-- Git & GitHub  
-- File I/O Operations  
-- IntelliJ IDEA    
 
----
 
-## 🚀 Featured Project  
 
-### 📚 Online-Web-Based-Bidding-System
 
----
 
-## 📊 GitHub Stats  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marshadmajeedh&layout=compact&theme=radical)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marshadmajeedh&show_icons=true&theme=radical)  
+🎯 About Me
 
----
+I’m a 2nd-year Software Engineering student at Sri Lanka Institute of Information Technology (SLIIT) focused on building strong fundamentals in programming and application security.
 
-## 🌱 Learning Journey  
+I believe in mastering fundamentals deeply before scaling up.
 
-I believe in **continuous learning and consistency** 🌟.  
-Every repository is a milestone—right now I’m focusing on:  
-- 📌 Mastering **java** 
-- 🔐 Exploring **Application Security Engineer**  
-- ⚡ Strengthening **Data Structures & Algorithms**  
-- 🛠️ Secure Software Development  
+🛠 Core Strengths
 
----
+Object-Oriented Programming (OOP)
 
-## 🤝 Let’s Connect  
+Java Collections Framework
 
-- 📧 **Email:** marshadahamedh@gmail.com  
-- 🌐 **GitHub:** [@marshadmajeedh](https://github.com/marshadmajeedh)  
+Sliding Window & Two Pointer Patterns
 
----
+HashMap & Stack-based Problem Solving
+
+Basic SQL & Database Concepts
+
+Secure Logic Implementation
+
+🚀 Current Focus
+
+🔐 Application Security Concepts
+
+⚙️ Backend Logic & Secure Coding
+
+📈 DSA Mastery
+
+🧠 Pattern Recognition & Clean Code
+
+📊 GitHub Stats
+
+📫 Connect
+
+📧 marshadahamedh@gmail.com
+
+🌐 github.com/marshadmajeedh
